@@ -238,7 +238,7 @@ def images_to_pdf(directory):
 
 
     final_images[0].save(r'/Users/justinkaufman/Desktop/final_images.pdf', save_all=True, append_images=final_images[1:])
-
+ 
 
 
 def main():
